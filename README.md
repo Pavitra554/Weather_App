@@ -11,7 +11,7 @@ PS: React Native Examples is a community & Source for React Native Developers. T
 
 # Project Name : Weather App
 
-This is a weahter app build with React Native. Which is useing openweather API for weather data.
+This is a weather app build with React Native. Which is using openweather API for weather data.
 
 # How it look's😎
 
